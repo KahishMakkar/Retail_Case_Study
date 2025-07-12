@@ -64,7 +64,8 @@ The project includes a wide range of exploratory and business-focused charts:
 
 ### 📊 Dashboard Preview
 
-![Dashboard](dashboard_combined.png)
+![Dashboard](dashboard.png)
+
 
 A visual summary of insights, combining key charts into one snapshot.  
 📌 Make sure to open this image in full to view trends at a glance.
